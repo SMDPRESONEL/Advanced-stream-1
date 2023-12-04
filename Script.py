@@ -1,29 +1,26 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ɴᴀɴʙʜᴀ ᴀɴᴅ ɴᴀɴʙɪꜱ ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>,【ɪᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ+└ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘+├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤+☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+    START_TXT = """𝐇𝐞𝐥𝐥𝐨... {}
+    
+𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/Samandes_bot><b>☔🇸 🇲 🇩 Ⱥᵾŧø ᶠⁱˡᵗᵉʳ Bot♣</b></a>
 
-    HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐌𝐚𝐤𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧.. 𝐓𝐡𝐞𝐧 𝐒𝐞𝐞 𝐌𝐲 𝐏𝐨𝐰𝐞𝐫
 
-    ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tamilmoviesrio2_bot>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
- ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/its_me_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
- ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
- ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
- ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
- ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://render.com'>RENDER</a> 
- ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/SMD_Owner><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
+    HELP_TXT = """<b>𝐇𝐞𝐲 {} 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐇𝐞𝐫𝐞 𝐘𝐨𝐮𝐫 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 👇</b>"""
 
-    SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Samandes_bot>🏞🇸 🇲 🇩 Ⱥᵾŧø ᶠⁱˡᵗᵉʳ Bot🎇</a>
+😈 𝐀𝐫𝐭𝐢𝐬𝐭 : <a href=https://t.me/SMD_Owner>🍁𝐂𝐨𝐝𝐞𝐫🎎</a>
+👑 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🌿𝐌𝐚𝐤𝐞𝐫⚜️</a>
+✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : <a href=https://t.me/SMD_Owner>🛬 𝐏𝐫𝐨𝐝𝐮𝐜𝐞𝐫🚦</a>
+♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : <a href=https://t.me/SMD_Owner>🎭𝐒𝐫𝐞𝐞𝐫𝐚𝐚𝐦🔥</a>
+👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🦞𝐑𝐚𝐚𝐦🌿</a>
+⚜️ 𝐒𝐌𝐃 𝐁𝐎𝐓𝐳 : <a href=https://t.me/QTVS_BOT_X_CLOUD>🥀𝐌𝐂𝐔🎋</a></b>"""
 
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
+    SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 @SMD_Owner
 
-Where is source code? - <a href='https://t.me/Teamrioupdates2/3'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+- 𝟏𝟎𝟎﹪ 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 <a href=https://t.me/SMD_Owner>🌿𝐑𝐨𝐥𝐞𝐱🦞</a>
 
-
-Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
-
+- & 𝐑𝐞𝐩𝐨 𝐋𝐢𝐧𝐤 👇 𝐇𝐞𝐫𝐞"""
 
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -143,19 +140,19 @@ Nᴀᴍᴇ - {}"""
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
-    I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
+    I_CUDNT = """<b>𝐒𝐨𝐫𝐫𝐲 𝐍𝐨 𝐅𝐢𝐥𝐞𝐬 𝐖𝐞𝐫𝐞 𝐅𝐨𝐮𝐧𝐝 𝐅𝐨𝐫 𝐘𝐨𝐮𝐫 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 {} 😕
 
-ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
+𝐂𝐡𝐞𝐜𝐤 𝐘𝐨𝐮𝐫 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐈𝐧 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐧𝐝 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🤹‍♂️
 
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+𝐌𝐨𝐯𝐢𝐞 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐓𝐲𝐩𝐞 🏵🎬👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+𝐄𝐱𝐚𝐦𝐩𝐥𝐞💖 : 𝐋𝐞𝐨 𝐨𝐫 𝐕𝐢𝐤𝐫𝐚𝐦 𝟐𝟎𝟐𝟐 
 
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+𝐒𝐞𝐫𝐢𝐞𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐓𝐲𝐩𝐞 🏵🎬👇
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+𝐄𝐱𝐚𝐦𝐩𝐥𝐞 💖 : 𝐋𝐨𝐤𝐢 𝐒𝟎𝟏 𝐨𝐫 𝐋𝐨𝐤𝐢 𝐒𝟎𝟏𝐄𝟎𝟒 𝐨𝐫 𝐋𝐮𝐜𝐢𝐟𝐞𝐫 𝐒𝟎𝟑𝐄𝟐𝟒
 
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
+😡🙏🤬 𝐃𝐨𝐧'𝐭 𝐔𝐬𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 ➠ 𝐏𝐨𝐫𝐧 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 ':(!,./)</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
@@ -166,7 +163,8 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINK_INFO = """
+    SHORTLINK_INFO = """
+
 🫵 Select Your Language And Earn Money 💰"""
 
     REQINFO = """
@@ -195,9 +193,18 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """
+<b>📂 𝐅𝐢𝐥𝐞 𝐍𝐚𝐦𝐞 : </b> <b>{file_name}</b>
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b>
+╭─────── • ◆ • ───────╮
+🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/+VEMz7vS7VtFmMDI1">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+╰─────── • ◆ • ───────╯
+
+=========== • ✠ • ===========
+▫️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : @SAM_DUB_LEZHa
+▫️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 : @SAM_DUB_LEEZZa
+=========== • ✠ • ===========</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -414,7 +421,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-BOT WORKING PROPERLY"""
+
+BOT WORKING PROPERLY"""
  
     TAMIL_INFO = """
 ஏய் <a href='tg://settings'>My Friend</a> 
