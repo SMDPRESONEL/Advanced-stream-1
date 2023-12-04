@@ -43,7 +43,7 @@ from pyrogram import idle
 from lazybot import LazyPrincessBot
 from util.keepalive import ping_server
 from lazybot.clients import initialize_clients
-from laport import coroutine
+from asyncio import coroutine
 
 ppath = "plugins/*.py"
 files = glob.glob(ppath)
