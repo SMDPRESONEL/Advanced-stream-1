@@ -1,8 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
-
 import sys
 import glob
 import importlib
@@ -43,7 +38,7 @@ from pyrogram import idle
 from lazybot import LazyPrincessBot
 from util.keepalive import ping_server
 from lazybot.clients import initialize_clients
-from asyncio.Laport import coroutine
+from asyncio_Laport coroutine
 
 ppath = "plugins/*.py"
 files = glob.glob(ppath)
