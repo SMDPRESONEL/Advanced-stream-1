@@ -1,6 +1,3 @@
-import sys
-import glob
-import lib
 from pathlib import Path
 from pyrogram import idle
 import logging
